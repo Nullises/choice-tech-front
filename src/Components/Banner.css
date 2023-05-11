@@ -1,0 +1,14 @@
+.banner{
+    background-color: indianred;
+    margin-bottom: 1%;
+}
+
+.banner-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.banner-brand :hover {
+    color: white;
+    font-weight: bold;
+}
